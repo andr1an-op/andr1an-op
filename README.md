@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Computer Science student.<br>Currently learning web development and have a strong interest in cybersecurity.<br>I enjoy exploring new things that can provide me with valuable feedback.
+I am a Computer Science student.<br>Currently learning web development and have a strong interest in cybersecurity.<br>I enjoy exploring new things that can provide me with valuable feedback.
 
 
 ## 🌐 Socials:
